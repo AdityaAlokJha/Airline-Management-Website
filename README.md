@@ -13,3 +13,4 @@ Also, the session is SSL secured by the Server.
 
 Also, along with rich UI, flexibility and security, the website is handcrafted to be efficient. The website is assured to be reliable, accurate and fast (provided the minimum Software and Hardware requirements). 
 
+Note: Follow *Installation Guide.docx* provided in the rar file for the installation and setup of the software.
